@@ -5,6 +5,7 @@
 - 📫 How to reach me
 - https://www.linkedin.com/in/moses-ka-mohs/
 - Email ji.moses.ka@gmail.com
+- portflio https://www.moseska.me/
 
 <!---
 moses-ka/moses-ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
